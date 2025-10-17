@@ -1,4 +1,4 @@
-#Specter (Text-Adventure game: Ghost Type Investigation) by Angel, Hendra, Jevon, Lesha
+#Specter (Text-Adventure game: Ghost Type Investigation) by Group ICT 
 # updates:
 # as of Tuesday, 17 September 2024, added anticheat feature to prevent abuse of front yard regen & improved formatting 
 
